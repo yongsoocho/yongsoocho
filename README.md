@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&animation=twinkling&height=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&animation=twinkling&height=120)
 
 ### Welcome 
 
