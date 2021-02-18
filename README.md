@@ -33,6 +33,4 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![AmazonAWS](https://img.shields.io/badge/-Amazon AWS-00C58E?style=flat-square&logo=AmazonAWS&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![GoogleCloud](https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
