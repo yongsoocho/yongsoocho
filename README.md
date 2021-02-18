@@ -17,7 +17,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logoColor=white&logo=javascript&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 ### Backend
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
