@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=66ccff&animation=twinkling&height=180&text=Welcome)
-
 <div align = center>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yongsoocho&show_icons=true&theme=gradient&include_all_commits=true)
@@ -22,10 +20,15 @@
 ### Backend
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 ### DataBase
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+
+### Lang
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logoColor=white&logo=javascript&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 ### APP
 
