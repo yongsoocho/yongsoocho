@@ -20,10 +20,12 @@
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 ### Backend
-[![Nodejs](https://img.shields.io/badge/-Nodejs-F8F8FF?style=flat-square&logo=Node.js&logoColor=339933&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 ### DataBase
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FFFAFA?style=flat-square&logo=mongodb&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 ### Todo
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
