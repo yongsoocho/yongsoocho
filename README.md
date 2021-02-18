@@ -25,5 +25,5 @@
 ### DataBase
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FFFAFA?style=flat-square&logo=mongodb&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
-
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+### Todo
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
