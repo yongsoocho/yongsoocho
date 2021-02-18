@@ -20,7 +20,7 @@
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 ### Backend
-[![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js&logoColor=339933&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-EEEEEE?style=flat-square&logo=Node.js&logoColor=339933&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
