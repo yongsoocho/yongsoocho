@@ -25,7 +25,7 @@
 
 ### DataBase
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 ### APP
 
@@ -33,6 +33,6 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![Amazon AWS](https://img.shields.io/badge/-Amazon AWS-00C58E?style=flat-square&logo=Amazon AWS&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![Google Cloud](https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![Amazon AWS](https://img.shields.io/badge/-Amazon AWS-00C58E?style=flat-square&logo=AmazonAWS&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
+[![Google Cloud](https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
