@@ -24,13 +24,10 @@
 
 ### DataBase
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 
 ### Lang
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logoColor=white&logo=javascript&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
-
-### APP
 
 ### Todo
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&fontColor=white&link=https://github.com/carlosstenzel/)](https://github.com/carlosstenzel/)
