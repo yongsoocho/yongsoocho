@@ -22,7 +22,7 @@
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-[![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### DataBase
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
