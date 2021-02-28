@@ -32,7 +32,7 @@
 
 ### Todo
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=react&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
