@@ -23,10 +23,10 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### DataBase
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### Lang
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
