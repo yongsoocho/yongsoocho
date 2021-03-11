@@ -42,3 +42,4 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=Deno&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
