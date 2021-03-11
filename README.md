@@ -22,7 +22,7 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-[![Amazon-AWS](https://img.shields.io/badge/-Amazon-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![Amazon AWS](https://img.shields.io/badge/-Amazon-AWS-232F3E?style=flat-square&logo=Amazon+AWS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Google Cloud](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### DataBase
