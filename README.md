@@ -45,3 +45,4 @@
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
