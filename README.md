@@ -32,13 +32,13 @@
 ### Lang
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logoColor=white&logo=javascript&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### Todo
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=Deno&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
