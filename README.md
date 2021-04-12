@@ -23,6 +23,7 @@
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=Amazon+AWS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
@@ -41,7 +42,6 @@
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=Deno&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
