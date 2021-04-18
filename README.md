@@ -28,7 +28,7 @@
 [![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### DataBase
-[![MongoDB](https://img.shields.io/badge/-MongoDB-311C87?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### Lang
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
