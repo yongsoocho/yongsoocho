@@ -49,5 +49,5 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-336791?style=flat-square&logo=Apollo+GraphQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)\
-[![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white&link=https://github.com/yongsoocho/)](htt://github.com/yongsoocho/)
