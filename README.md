@@ -46,4 +46,4 @@
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
