@@ -25,7 +25,6 @@
 [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=Amazon+AWS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-[![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=Google+Cloud&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### DataBase
 [![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
