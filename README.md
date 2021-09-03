@@ -18,6 +18,7 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### Backend
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
@@ -39,7 +40,6 @@
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### Todo
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
