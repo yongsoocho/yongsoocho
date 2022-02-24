@@ -20,10 +20,12 @@
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### Backend
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
+[![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=Amazon+AWS&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
@@ -43,12 +45,10 @@
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 
 ### Todo
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white&fontColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=Deno&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-E10098?style=flat-square&logo=Apollo+GraphQL&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
-[![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white&link=https://github.com/yongsoocho/)](https://github.com/yongsoocho/)
 [![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white&link=https://github.com/yongsoocho/)](htt://github.com/yongsoocho/)
